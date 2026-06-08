@@ -1,5 +1,5 @@
 Task 1-
-# 🌸 Term Deposit Prediction – Training Pipeline
+# 🌸 1- Term Deposit Prediction – Training Pipeline
 
 **3 models + SHAP explanations + automatic plots**
 
@@ -47,7 +47,9 @@ Predict if a bank client will subscribe to a term deposit.
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost shap joblib
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 🛍️ Customer Segmentation – Mall Customers
+----------------------------------------------
+----------------------------------------------
+# 🛍️ 2- Customer Segmentation – Mall Customers
 
 **Unsupervised Learning: K‑Means + PCA/t‑SNE visualisation + actionable marketing strategies**
 
