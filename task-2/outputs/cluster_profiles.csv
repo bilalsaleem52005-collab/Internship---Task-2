@@ -1,0 +1,6 @@
+Cluster,Age,Annual Income (k$),Spending Score (1-100),Genre,Segment,Marketing Strategy
+0,42.72,55.3,49.52,Female,"Standard (mid income, mid spending)",Offer loyalty programs and cross‑sell mid‑range products.
+1,41.11,88.2,17.11,Male,"High income, high spending (VIP)","Premium products, exclusive events, and personalized offers."
+2,45.22,26.3,20.91,Female,"Low income, low spending (budget)","Discounts, bundle deals, and value‑oriented promotions."
+3,25.27,25.73,79.36,Female,"High income, low spending (price sensitive)","Show value of premium products, free trials, and education."
+4,32.69,86.54,82.13,Female,"Low income, high spending (aspirational)","Flexible payment plans, aspirational product visibility, and BNPL options."
