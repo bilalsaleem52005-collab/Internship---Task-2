@@ -42,11 +42,8 @@ Predict if a bank client will subscribe to a term deposit.
 > **Top features** (from SHAP): `duration`, `poutcome_success`, `month_may`, `housing_yes`, `age`
 
 ---
+---
 
-## 🖥️ How to Run
-
-### 1. Install dependencies
-```bash
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost shap joblib
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
