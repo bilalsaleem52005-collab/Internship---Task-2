@@ -110,13 +110,10 @@ Using **unsupervised learning**, we segment customers into meaningful groups and
 
 ---
 
-## Task 5- Global Superstore – Interactive Dashboard
+# Task 5 - Global Superstore – Interactive Dashboard
 
 ### 1. Install dependencies
 ```bash pip install pandas numpy matplotlib seaborn scikit-learn```
-
--------------------------------
-# Global Superstore – Premium Interactive Dashboard
 
 ## 🌟 What This Project Does
 
